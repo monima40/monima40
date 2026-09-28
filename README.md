@@ -1,6 +1,12 @@
+
+<p align="center">
+  <img src="./banner.png" alt="Nushrath Jahan Monima" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Nushrath Jahan Monima</h1>
 
-<h3 align="center">Undergraduate CSE Student | Aspiring Full-Stack Web Engineer</h3>
+<h3 align="center">
+  Web Development Learner | Aspiring Researcher
+</h3>
 
 ---
 
